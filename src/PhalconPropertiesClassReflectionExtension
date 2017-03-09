@@ -1,8 +1,0 @@
-<?php
-
-namespace theOlymp\PhpStan;
-use PHPStan\Reflection\PropertiesClassReflectionExtension;
-
-class PhalconPropertiesClassReflectionExtension implements PropertiesClassReflectionExtension{
-  
-}
