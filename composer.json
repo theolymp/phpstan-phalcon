@@ -19,9 +19,7 @@
             "reference": "master"
         },
         "autoload": {
-            "psr-0" : {
-                "theOlymp\\PhpStan" : "src"
-            }
+            "psr-4": {"theOlymp\\PhpStan\\": "src/"}
         }
     }
 }
