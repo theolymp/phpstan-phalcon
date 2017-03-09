@@ -1,15 +1,8 @@
 {
     "name": "theolymp/phpstan-phalcon",
-    "type": "package",
     "require": {
         "phpstan/phpstan": "^0.6.2"
     },
-    "minimum-stability": "dev",
-    "extra": {
-		"branch-alias": {
-			"dev-master": "master"
-		}
-	},
     "authors": [
         {
             "name": "Robin Parker",
