@@ -8,5 +8,6 @@
             "name": "Robin Parker",
             "email": "robin.parker@theolymp.net"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
