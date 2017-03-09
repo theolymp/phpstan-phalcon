@@ -9,5 +9,8 @@
             "email": "robin.parker@theolymp.net"
         }
     ],
+    "autoload": {
+      "psr-4": {"theOlymp\\PhpStan\\": "src/"}
+    },
     "minimum-stability": "dev"
 }
